@@ -1,4 +1,4 @@
-# tf-aws-lab1-template
+# tf-aws-lab-provisioner
 
 This module will produce the following resources for use in rubrik labs:
 * 1 VPC with 3 public and 3 private subnets in the `prod_region`, assumes `a` `b` and `c` AZs are availabile in the specified region
